@@ -1,0 +1,23 @@
+.internal{
+	display: block;
+}
+
+#d1, #d2{
+	display: inline-block;
+}
+
+#d1{
+	background-color: green;
+	padding: 100px;
+	width: 300px;
+	display: none;
+}
+
+#d2{
+	padding: 100px;
+	background-color: blue;
+	width: 300px;
+}
+.error{
+	color: #FF0000;
+}
